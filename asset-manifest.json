@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/css-animation-project/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/css-animation-project/static/js/main.499d5d0e.chunk.js",
+    "main.js.map": "/css-animation-project/static/js/main.499d5d0e.chunk.js.map",
+    "runtime-main.js": "/css-animation-project/static/js/runtime-main.4de005fc.js",
+    "runtime-main.js.map": "/css-animation-project/static/js/runtime-main.4de005fc.js.map",
+    "static/js/2.9a1c42f0.chunk.js": "/css-animation-project/static/js/2.9a1c42f0.chunk.js",
+    "static/js/2.9a1c42f0.chunk.js.map": "/css-animation-project/static/js/2.9a1c42f0.chunk.js.map",
+    "static/js/3.e2f15cce.chunk.js": "/css-animation-project/static/js/3.e2f15cce.chunk.js",
+    "static/js/3.e2f15cce.chunk.js.map": "/css-animation-project/static/js/3.e2f15cce.chunk.js.map",
+    "index.html": "/css-animation-project/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/css-animation-project/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9a1c42f0.chunk.js.LICENSE.txt": "/css-animation-project/static/js/2.9a1c42f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4de005fc.js",
+    "static/js/2.9a1c42f0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.499d5d0e.chunk.js"
+  ]
+}
